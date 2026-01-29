@@ -23,5 +23,6 @@ elif op == "/":
     else:
         print("Error: Division by zero")
 else:
-    print("Invalid operator")
+    print("Invalid operator. Please choose +, -, *, or /")
+ # first change here: input validation commment changed
 2
